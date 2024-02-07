@@ -1,9 +1,9 @@
 # Harvish Jariwala 🚀
 
 ## Education and Skills
-- 🎓 Computer Science - Rutgers-New Brunswick
-- 🌱 Skilled in Python, Golang, C++, TypeScript, and **Arch-Linux
-- 📚 Always on a journey of Learning and Growing
+- 🎓 Computer Science - Rutgers-New Brunswick.
+- 🌱 Skilled in Python, Golang, C++, TypeScript, and **Arch-Linux.
+- 📚 Always on a journey of Learning and Growing.
 
 ## Professional Experience
 - 🚇 Metropolitan Transportation Authority - Business Analyst Aide | Jan 2024 - Present
