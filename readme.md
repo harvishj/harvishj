@@ -6,7 +6,7 @@
 - 📚 Always on a journey of Learning and Growing.
 
 ## Professional Experience
-- 🚇 Metropolitan Transportation Authority - Business Analyst Aide | Jan 2024 - Present
+- 🚇 Metropolitan Transportation Authority - Software Developer College Aide | Jan 2024 - Present
 - 🏫 Rutgers University - Application Developer | Feb 2023 - Present
 - 💻 Anicca Data Science - Software Engineer | Aug 2022 - Jan 2023
 - 📊 Fero.ai - Software Engineer | Jan 2022 - Aug 2022
