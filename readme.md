@@ -2,7 +2,7 @@
 
 ## Education and Skills
 - 🎓 Computer Science - Rutgers-New Brunswick.
-- 🌱 Skilled in Python, Golang, C++, TypeScript, and **Arch-Linux.
+- 🌱 Skilled in Java, Python, Golang, TypeScript, and **Arch-Linux.
 - 📚 Always on a journey of Learning and Growing.
 
 ## Professional Experience
